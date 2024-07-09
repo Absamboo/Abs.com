@@ -1,0 +1,35 @@
+body{
+  background-size: 50px;
+  background-image: url (".jpg");
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
+.rese{
+  background-color: red;
+  padding-bottom: 15px;
+  border: 15px;border-bottom-color: greenyellow;
+  padding: 10px;
+}
+
+.sub{
+  text-align: right;
+  background-color: green;
+  padding: 10px;
+}
+.can{
+  background-color: whitesmoke;
+}
+
+input{
+  padding: 5;
+}
+select{
+  padding: 5;
+}
+file{
+  10;
+}
+checkbox{
+  padding: 5px;
+}

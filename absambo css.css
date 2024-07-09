@@ -1,0 +1,50 @@
+
+body{
+  background-image: url("bash.jpg");
+  text-align: center;
+  background-position: right;
+}
+
+h1{
+  color: blue;
+  background-position: center;
+  align-items: centet;
+  align-self: center;
+  justify-items: centet;
+  justify-content: centet;
+  text-align: center;
+}
+{
+background-image: url("ham.jpg");
+background-size: 50px;
+border-image: 35px;
+cellspecing: 24px;
+
+}
+.LOG{
+  border-bottom-color: blue;
+  justify-items: center;
+  justify-content: center;
+  justify-self: center;
+  text-justify: center;
+  
+}
+h2{
+  color: green;
+  text-align: center;
+  text-indent: center;
+  
+}
+button{
+  color: green;
+  border-bottom-color: green;
+  
+}
+input{
+  padding: 5px;
+  
+}
+button{
+  padding: 10px;
+  
+}

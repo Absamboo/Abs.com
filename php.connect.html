@@ -1,31 +1,20 @@
-<? 
-  $email = filter_input(input_post, 'email');
-  $password = filter_input(input_post,'password');
-  if(!empty(&email)){
-    if(!empty($password)){
-    }
-    &host = localhost;
-    &email='root';
-    $password = '';
-    $dbname = 'basabu82_absambo '
-    //create connection
-    $conn = new mysql($host, $email, $password, dbname);
-    if((mysql_connect erro()){
-      die('connect error('mysql_connect_error(().)
-    }
-    else{
-      &sql = " INSERT INTO Abdulhakeem(email, pasword) value($email, password");
-      if ($conn-query(sql));{echo 'New account is registert'}
-      else{
-        echo"Already register"}
-      $conn-close();
-    
-    
-  }
-  else{
-    echo 'email should not be empty'
-  }
-else{
-echo 'email should not be empty' 
-} 
- ?>
+<?php
+$servername = "localhost";
+$database = "Bashir@fuk";
+$email = "u123456789_User";
+$password = "";
+ 
+// Create connection
+ 
+$conn = mysqli_connect($servername, $email , $password, $database);
+ 
+// Check connection
+ 
+if (!$conn) {
+ 
+    die("Connection failed: " . mysqli_connect_error());
+ 
+}
+echo "Connected successfully";
+mysqli_close($conn);
+?>

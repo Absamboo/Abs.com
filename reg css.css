@@ -4,9 +4,11 @@ body{
   background-position: center;
   background-repeat: no-repeat;
   background-size: 400px;
+  font-size-adjust: 50px;
+  
 }
 input{
-  padding: 6px;
+  padding: 20px;
   text-align: center;
   text-emphasis-position: center;
   background: pink;

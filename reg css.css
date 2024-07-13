@@ -1,0 +1,42 @@
+body{
+  background: skyblue;
+  background-image: url("book.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 400px;
+}
+input{
+  padding: 6px;
+  text-align: center;
+  text-emphasis-position: center;
+  background: pink;
+  justify-content: center;
+  align-content: center;
+  margin: 10px;
+  margin-left: 5;
+  border: 5px;
+  border-radius: 30px;
+}
+.reg{
+  padding: 10px;
+  hight: 30px;
+  text-align-last: center;
+  color: green;
+  width: 100px;
+  text-align: center;
+  margin: auto;
+  
+  
+  
+}
+button{
+  text-decoration-color: green;
+}
+
+.can2{
+  padding: 10px;
+  background-color: white;
+  color: green;
+  
+  
+}

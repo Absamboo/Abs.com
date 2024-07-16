@@ -10,6 +10,7 @@ table{
 }
 body{
   background-color: lemonchiffon;
+Text-item: center;
 }
 video{
   padding: 15px;

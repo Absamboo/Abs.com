@@ -1,0 +1,21 @@
+h1{
+  text-align: center;
+  color: chartreuse;
+}
+table{
+  padding: 5px;
+  border: 20px;
+  padding-spacing;
+  background-color: greenyellow;
+}
+body{
+  background-color: lemonchiffon;
+}
+video{
+  padding: 15px;
+  width: 1500px;
+}
+aside{
+  
+}
+
